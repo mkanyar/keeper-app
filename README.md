@@ -1,4 +1,4 @@
-This is a Keeper Application using reactJS
+This is a clone of the keeper react app 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
