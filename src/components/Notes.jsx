@@ -1,13 +1,11 @@
 import React from "react";
-const customStyle = {
-  fontWeight: "bold",
-};
+
 function Notes() {
   return (
-    <notes>
-      <p style={customStyle}>This is the note Title</p>
-      <p className="note">This is the note content</p>
-    </notes>
+    <div className="note">
+      <h1>This is the note Title</h1>
+      <p>This is the note content</p>
+    </div>
   );
 }
 export default Notes;

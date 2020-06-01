@@ -35,7 +35,7 @@ footer {
 footer p {
   color: #ccc;
 }
-notes {
+.note {
   background: #fff;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
@@ -44,7 +44,7 @@ notes {
   margin: 16px;
   float: left;
 }
-notes h1 {
+.note h1 {
   font-size: 1.1em;
   margin-bottom: 6px;
 }
